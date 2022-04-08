@@ -1,0 +1,10 @@
+#
+# NoraExternalConnector Hosts list
+#
+JP4YEB	jp4yeb.mydns.jp		# 廿日市430
+JP3YIX  jp3yix.mydns.jp		# 京都南430
+JP6YHU  124.41.83.45		# 都城430
+JP6YIC 	124.41.81.242		# 別府430
+JP6YID  131.129.4.10		# 糸島430
+
+
